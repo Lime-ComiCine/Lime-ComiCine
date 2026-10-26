@@ -47,4 +47,4 @@ You can reach me via my personal contact page:
 
 ---
 
-*Thanks for stopping by! Feel free to star ⭐ this repo if you like it.*
+*Thanks for stopping by!*
