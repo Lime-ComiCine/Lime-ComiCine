@@ -15,10 +15,10 @@
 
 I'm still exploring, but here are my current tools:
 
-![HTML](https://html.spec.whatwg.org/)
-![CSS](https://www.w3.org/Style/CSS/)
-![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Codex](https://openai.com/codex/)
+[HTML](https://html.spec.whatwg.org/)
+[CSS](https://www.w3.org/Style/CSS/)
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[Codex](https://openai.com/codex/)
 
 *(I use Codex as my primary editor/IDE for web development.)*
 
