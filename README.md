@@ -6,14 +6,17 @@
 
 - 🏫 Student studying **IGCSE**.
 - 🌐 I build [websites](https://limooo.cn) – I use **AGENTS** to turn ideas into reality.
-- 📸 Photographer
-- 🤝 Open to collaboration: web projects, photography, or just interesting experiments.
+  - 💻 Curious how my website works? Check out its [source code](https://github.com/ComiCine/ComiCine-website)!
+- 📸 Photographer & Video Creator.
+  - 📷 Interested in my photography services? Check out my [services page](https://services.limooo.cn)!
+  - 🎬 Watch my videos on [BiliBili](https://space.bilibili.com/1234163143), [YouTube](https://www.youtube.com/@ComiCine-studio), or [X](https://x.com/ComiCine_studio)! If you enjoy my content, feel free to follow or subscribe! ❤️
+- 🤝 Open to collaboration: web projects, photography, content creation, or just interesting experiments. As I'm still a student, my availability may be limited, but I'm always happy to discuss new opportunities!
 
 ---
 
 ## 🛠️ Tech Stack
 
-I'm still exploring, but here are my current tools:
+I'm still exploring, but here are the technologies and tools I currently use:
 
 [HTML](https://html.spec.whatwg.org/)
 [CSS](https://www.w3.org/Style/CSS/)
@@ -34,16 +37,11 @@ I'm still exploring, but here are my current tools:
 
 ## 💬 Ask Me Anything
 
-I welcome your questions – about tech, photography, school, or anything else!  
-Please use any of the contact information available [here](https://contact.limooo.cn) to get in touch.
-I promised I would answer, and I will! ✅
+I welcome your questions – about my [services](https://services.limooo.cn), tech, photography, school, or anything else!
 
----
+Feel free to reach out using any of the contact methods listed on my [contact page](https://contact.limooo.cn).
 
-## 📬 Contact
-
-You can reach me via my personal contact page:  
-👉 [contact.limooo.cn](https://contact.limooo.cn)
+I promise I'll respond! ✅
 
 ---
 
