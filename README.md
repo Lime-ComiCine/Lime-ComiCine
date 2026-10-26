@@ -35,7 +35,7 @@ I'm still exploring, but here are my current tools:
 ## 💬 Ask Me Anything
 
 I welcome your questions – about tech, photography, school, or anything else!  
-Please use **[Discussions](https://github.com/Lime-ComiCine/Lime-ComiCine/discussions)** to start a conversation.  
+Please use any of the contact information available [here](https://contact.limooo.cn) to get in touch.
 I promised I would answer, and I will! ✅
 
 ---
