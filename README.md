@@ -41,7 +41,7 @@ I welcome your questions – about my [services](https://services.comicine.com),
 
 Feel free to reach out using any of the contact methods listed on my [contact page](https://contact.comicine.com).
 
-I promise I'll respond! ✅
+I'll do my best to respond! ✅
 
 ---
 
